@@ -18,7 +18,7 @@ pipeline{
 				}
 			}
 		}
-		
+	
 	
 		stage('deplyment Stage') {
 			steps{
